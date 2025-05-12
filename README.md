@@ -30,8 +30,8 @@ To set up the Student Safety Tracker application locally, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/AnupDangi/StudentSafetyTracking_5thSem.git
-   cd StudentSafetyTracking_5thSem
+   git clone https://github.com/Amritatiwari611/Student_Safety_Tracker/edit/main/README.md
+   cd Student_Safety_Tracker
    ```
 
 
@@ -42,7 +42,7 @@ source venv/bin/activate  # On Linux/macOS
 venv\Scripts\activate  # On Windows
 ```
  #After Setting up the environment it looks like this 
- (venv) path/StudentSafetyTracking_5thSem
+ (venv) path/Student_Safety_Tracker
 
  3. Setup the django and install all other requirements
 ```bash
